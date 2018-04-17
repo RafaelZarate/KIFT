@@ -9,7 +9,7 @@ Rafael Zarate (https://github.com/RafaelZarate)
 
 Isamar Hodge (https://github.com/isahodge)
 
-Maya Soni (https://github.com/[FILL IN LATER])
+Maya Soni (https://github.com/msoni122)
 
 Josh Meier (https://github.com/fakejoshmeier)
 
